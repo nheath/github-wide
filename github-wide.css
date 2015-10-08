@@ -79,6 +79,10 @@ button.discussion-sidebar-toggle {
   max-width: none !important;
 }
 
+.comment-holder {
+  max-width: none !important;
+}
+
 /* Dashboard */
 /* Note that this won't be needed if we actually flipped the DOM order around. */
 
